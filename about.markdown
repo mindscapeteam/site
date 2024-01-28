@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the about page.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Meet the Team
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Brandon Anthony - Co-Founder and CEO
 
+Brandon is a Real Estate Investor and Entrepreneur. He has a passion for helping people and has been involved in several non-profit organizations. He is a graduate of the United States International University with a degree in International Business Administration.
 
-[jekyll-organization]: https://github.com/jekyll
+### Nuru Amin - Co-Founder and COO
+
+Nuru is a passionate entrepreneur and psychologist. She is dedicated, both professionally and personally, to helping people achieve their goals. She is a graduate of the United States International University with a degree in Psychology.
+
+### Wayne Maranga - CTO
+
+Wayne is a software developer and entrepreneur. He is passionate about technology and its ability to improve lives. He is a graduate of the University of Nairobi with a degree in Civil Engineering.

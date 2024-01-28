@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+
+# RubyMine
+.idea/
+
+# :)
+.env
+.secrets/

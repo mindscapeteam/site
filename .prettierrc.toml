@@ -1,0 +1,31 @@
+# [*.rb]
+# # Set the number of spaces per indentation level
+# indent_style = "spaces"
+# indent_size = 2
+
+# # Set the maximum line length
+# max_line_length = 80
+
+# # Enable or disable automatic semicolon insertion
+# semi = false
+
+# # Enable or disable trailing commas
+# trailing_comma = "none"
+
+# # Enable or disable single quotes for strings
+# single_quote = true
+
+# # Enable or disable double quotes for strings
+# double_quote = false
+
+# # Enable or disable using parentheses for method calls without arguments
+# empty_parentheses = "omit"
+
+# # Enable or disable using parentheses for method calls with arguments
+# arguments_parentheses = "always"
+
+# # Enable or disable using parentheses for method definitions without arguments
+# empty_method_definition_parentheses = "omit"
+
+# # Enable or disable using parentheses for method definitions with arguments
+# arguments_method_definition_parentheses = "always"
